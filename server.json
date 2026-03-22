@@ -3,7 +3,7 @@
   "name": "io.misar.mail/misarmail",
   "title": "MisarMail",
   "description": "Full email marketing platform: inbox, campaigns, contacts, templates, automations, A/B testing, AI content, multi-channel messaging, deliverability monitoring, and revenue analytics via MCP.",
-  "version": "2.0.0",
+  "version": "2.0.3",
   "websiteUrl": "https://mail.misar.io",
   "remotes": [
     {
